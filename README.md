@@ -15,6 +15,7 @@ Dependencies:
 
 Installation/Setup:
 1) Python 3.10 can be found here: https://www.python.org/downloads/
+
 *During the install allow the Path directory to be added to your environmental variables, or you will have to manually add it after.
 
 2) PRAW - https://praw.readthedocs.io/en/latest/getting_started/installation.html
