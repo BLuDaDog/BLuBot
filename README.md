@@ -17,7 +17,7 @@ From a command prompt, type: pip install praw
 
 3) Download the script(s) from this git repository
 
-4)Reddit account / API
+4) Reddit account / API
 
 a) Sign up for a reddit account, login, then go to: https://www.reddit.com/prefs/apps/
 
