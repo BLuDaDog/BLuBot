@@ -3,10 +3,15 @@ reddit queue/request bot
 
 
 Dependencies:
-Python 3.10 or greater
-PRAW (Python Reddit API Wrapper)
-Bot python script
-Reddit Account with an API application
+
+1) Python 3.10 or greater
+
+2) PRAW (Python Reddit API Wrapper)
+
+3) Bot python script
+
+4) Reddit Account with an API application
+
 
 Installation/Setup:
 1) Python 3.10 can be found here: https://www.python.org/downloads/
